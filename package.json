@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-posrix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal Workspace ESLint Config",
   "main": "index.js",
   "repository": {
