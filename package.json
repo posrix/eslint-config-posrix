@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-posrix",
-  "version": "0.0.1",
-  "description": "Personal workspace ESLint config",
+  "version": "1.0.0",
+  "description": "Personal Workspace ESLint Config",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "url": "https://github.com/posrix/eslint-config-posrix/issues"
   },
   "homepage": "https://github.com/posrix/eslint-config-posrix",
-  "peerDependencies": {
+  "dependencies": {
     "eslint": "^3.7.1"
   },
   "optionalDependencies": {
