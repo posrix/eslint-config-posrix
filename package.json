@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/posrix/eslint-config-posrix",
   "dependencies": {
-    "eslint": "^4.10.0"
+    "eslint": "^5.5.0"
   },
   "optionalDependencies": {
     "eslint-plugin-html": "^4.0.0",
